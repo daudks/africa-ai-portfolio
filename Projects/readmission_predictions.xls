@@ -1,0 +1,4 @@
+Age,Length_of_Stay,Comorbidities,Previous_Admissions,Actual,Predicted
+40,7,2,1,1,0
+50,4,2,1,0,0
+25,3,0,0,0,0
